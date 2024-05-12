@@ -44,7 +44,7 @@
 |5. |CON GAMBERI (linguine, algi morskie, maśło, czosnek, pietrzuszka, pomidory, peperoncino, krewetki)|        |35 ZŁ |55 ZŁ |
 
 
-## SOSY
+## Sosy
 
 <img src = "img do pizzerii/dennis-klein-FzB_512zvP0-unsplash.jpg" width = 300>
 
@@ -54,3 +54,16 @@
 3. SOS BBQ                           5 ZŁ
 4. OLIWA Z OLIWEK                    5 ZŁ
 5. OLIWA ROZMARYNOWA                 5 ZŁ
+
+
+## Napoje
+
+<img src = "img do pizzerii/melissa-walker-horn-gtDYwUIr9Vg-unsplash.jpg" width = 300>
+
+|Lp.|                                                                            |      |
+|---|----------------------------------------------------------------------------|------|
+|1. |WODA (gazowana, niegazowana)                                                |4 ZŁ  |
+|2. |SOK (jabłkowy, pomarańczowy, porzeczkowy)                                   |6 ZŁ  |
+|3. |ICE TEA (brzoskwiniowa, cytrynowa, zielona)                                 |7 ZŁ  |
+|4. |LEMONIADA DOMOWA (cytrynowa, malinowa)                                      |10 ZŁ |
+|5. |TONIK                                                                       |11 ZŁ |
