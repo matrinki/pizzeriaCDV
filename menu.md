@@ -29,3 +29,16 @@
 |3. |RICOTTA (sos pomidorowy, mozarella, szpinak, pomidory, ricotta)             |        |28 ZŁ |48 ZŁ |58 ZŁ |
 |4. |KAPARY (sos pomidorowy, mozarella, tuńczyk, kapary,pomidory, rukola)        |        |28 ZŁ |48 ZŁ |58 ZŁ |  
 |5. |GRUSZKA (sos pomidorowy, mozarella, boczek, gruszka, gorgonzola)            |        |29 ZŁ |49 ZŁ |59 ZŁ |
+
+
+## Makarony
+
+<img src = "img do pizzerii/danijela-prijovic-qits91IZv1o-unsplash.jpg" width = 300>
+
+|Lp. |Makarony                                                                                         |porcja  |350g  |500g  |
+|---|--------------------------------------------------------------------------------------------------|--------|------|------|
+|1. |BOLOGNESE (spaghetti, pomidory, mięso wołowe, czosnek, bazylia, grana padano)                     |        |24 ZŁ |44 ZŁ |
+|2. |CARBONARA (spaghetti, jajko, pecorino romano, czosnek, cebula, pietruszka)                        |        |27 ZŁ |47 ZŁ |
+|3. |ARRABBIATA (spaghetti, pomidory, cebula, czosnek, peperoncino, pietruszka)                        |        |28 ZŁ |48 ZŁ |
+|4. |ALLA NORMA (garganelli, pomidory, bakłazan, ricotta, bazylia)                                     |        |32 ZŁ |52 ZŁ | 
+|5. |CON GAMBERI (linguine, algi morskie, maśło, czosnek, pietrzuszka, pomidory, peperoncino, krewetki)|        |35 ZŁ |55 ZŁ |
