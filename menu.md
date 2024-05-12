@@ -42,3 +42,15 @@
 |3. |ARRABBIATA (spaghetti, pomidory, cebula, czosnek, peperoncino, pietruszka)                        |        |28 ZŁ |48 ZŁ |
 |4. |ALLA NORMA (garganelli, pomidory, bakłazan, ricotta, bazylia)                                     |        |32 ZŁ |52 ZŁ | 
 |5. |CON GAMBERI (linguine, algi morskie, maśło, czosnek, pietrzuszka, pomidory, peperoncino, krewetki)|        |35 ZŁ |55 ZŁ |
+
+
+## SOSY
+
+<img src = "img do pizzerii/dennis-klein-FzB_512zvP0-unsplash.jpg" width = 300>
+
+
+1. SOS POMIDOROWY                    5 ZŁ
+2. SOS CZOSNKOWY                     5 ZŁ
+3. SOS BBQ                           5 ZŁ
+4. OLIWA Z OLIWEK                    5 ZŁ
+5. OLIWA ROZMARYNOWA                 5 ZŁ
