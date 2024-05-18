@@ -17,10 +17,22 @@
 |9. |GRECKA (sos pomidorowy, mozarella, feta, oliwki, papryka, cebula)           |        |29 ZŁ |49 ZŁ |59 ZŁ |
 |10.|ANCHOVIES (sos pomidorowy, mozarella, anchovis, bazylia)                    |        |30 ZŁ |50 ZŁ |60 ZŁ |
 
+## Pizze wegetariańskie
+
+<img src = "img do pizzerii/nik-owens-40OJLYVWeeM-unsplash.jpg" width = 300>
+
+|Lp. |Pizza                                                                      |rozmiar |30 cm |50 cm |60 cm |
+|---|----------------------------------------------------------------------------|--------|------|------|------|
+|1. |MARGHERITA (sos pomidorowy, mozarella, oregano)                             |        |20 ZŁ |40 ZŁ |50 ZŁ |
+|2. |FUNGHI (sos pomidorowy, mozarella, pieczarki)                               |        |22 ZŁ |42 ZŁ |52 ZŁ |
+|3. |HAWAJSKA WEGE (sos pomidorowy, mozarella, ananas)                           |        |23 ZŁ |43 ZŁ |53 ZŁ |
+|4. |WEGE (sos pomidorowy, mozarella, papryka, cebula, pomidory)                 |        |24 ZŁ |44 ZŁ |54 ZŁ |  
+|5. |GRECKA (sos pomidorowy, mozarella, feta, oliwki, papryka, cebula)           |        |26 ZŁ |46 ZŁ |56 ZŁ |
+
 
 ## Pizze specjalne
 
-<img src = "img do pizzerii/saundarya-srinivasan-60nzTP7_hMQ-unsplash.jpg" width = 300>
+<img src = "img do pizzerii/shayan-ramesht-exSEmuA7R7k-unsplash.jpg" width = 300>
 
 |Lp. |Pizza                                                                      |rozmiar |30 cm |50 cm |60 cm |
 |---|----------------------------------------------------------------------------|--------|------|------|------|
@@ -42,6 +54,15 @@
 |3. |ARRABBIATA (spaghetti, pomidory, cebula, czosnek, peperoncino, pietruszka)                        |        |28 ZŁ |48 ZŁ |
 |4. |ALLA NORMA (garganelli, pomidory, bakłazan, ricotta, bazylia)                                     |        |32 ZŁ |52 ZŁ | 
 |5. |CON GAMBERI (linguine, algi morskie, maśło, czosnek, pietrzuszka, pomidory, peperoncino, krewetki)|        |35 ZŁ |55 ZŁ |
+
+## Sałatki
+
+<img src = "img do pizzerii/yoav-aziz-AiHJiRCwB3w-unsplash.jpg" width = 300>
+
+
+1. Cesar (sałata, cebula, oliwa z oliwek, pomidor) - 15 zł
+2. Grecka (sałata, cebula, oliwa z oliwek, pomidor, oliwki, feta) - 20 zł
+3. Hiszpańska (sałata, cebula, oliwa z oliwek, pomidor, oliwki, mozarella) - 25 zł
 
 
 ## Sosy
