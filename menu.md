@@ -77,6 +77,13 @@
 5. OLIWA ROZMARYNOWA                 5 ZŁ
 
 
+## Dodatki
+
+1. Cukinia - 5 zł
+2. Karczochy - 6 zł
+3. Krewetki - 10 zł
+
+
 ## Napoje
 
 <img src = "img do pizzerii/melissa-walker-horn-gtDYwUIr9Vg-unsplash.jpg" width = 300>
