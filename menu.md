@@ -79,6 +79,8 @@
 
 ## Dodatki
 
+<img src = "img do pizzerii/chad-montano-MqT0asuoIcU-unsplash.jpg" width = 300>
+
 1. Cukinia - 5 zł
 2. Karczochy - 6 zł
 3. Krewetki - 10 zł
