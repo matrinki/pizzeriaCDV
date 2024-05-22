@@ -8,3 +8,4 @@ ul. gen. Tadeusza Kutrzeby 10
 +48 605 174 993
 
 ## Adres mailowy
+pizzeriaCDVinfo@gmail.com
