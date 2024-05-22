@@ -1,3 +1,3 @@
 # Pizzeria 
 
-Opis
+## O nas
