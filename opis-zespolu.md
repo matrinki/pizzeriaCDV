@@ -4,7 +4,7 @@ Nasz zespół to grupa ludzi, którzy kochają pizzę i postać Leonarda Da Vinc
 
 ## Kierownik
 
-Jan Kowalski
+Grzegorz Pawliński
 
 ## Kucharz
 
