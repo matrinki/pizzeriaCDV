@@ -4,3 +4,4 @@
 Jesteśmy zespołem, których łączy pasja do pizzy i legendarnej postaci Leonardo Da Vinci.
 
 Nasze pizze są wyrabiane ze starannie dobranych składników, by zapewnić Państwu doświadczenie godne mistrza renesansu. Pracujemy również z lokalnymi dostawcami, dzięki czemu możemy zapewnić świeżość naszych dań.
+Nigdy nie stajemy w miejscu - wciąż się rozwijamy! Co sezon szykujemy nowe oferty, chroniąc naszego klienta przed 'przejedzeniem' materiału :)
