@@ -18,6 +18,6 @@ Oskar Błoto, Magdalena Kowalska, Kinga Lewandowska
 
 Adam Bartosik
 
-## Grafik
+## Graficy
 
-Pamela Mazur
+Pamela Mazur, Miłosz Biel
